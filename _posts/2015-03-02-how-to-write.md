@@ -3,7 +3,7 @@ layout: post
 title: Oracle 11G OCM考试心得
 date: 2018-9-27
 categories: blog
-tags: [标签一,标签二]
+tags: [感受,分享]
 description: 文章金句。
 ---
 
